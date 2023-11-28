@@ -1,1 +1,1 @@
-![PimpMyImage](/index.png "PimpMyImage")
+![PimpMyImage](/PMI.png "PimpMyImage")
