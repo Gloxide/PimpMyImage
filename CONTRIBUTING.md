@@ -1,1 +1,0 @@
-This was created for the exported version, so there is not much to help with, but if there is, the best option would be to create an issue, that will be the best way with the project being exported already.
